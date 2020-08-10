@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="mysqlConnector_Pio">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/GUI-Projecto001/conector java-MySql/mysql-connector-java-5.1.49/mysql-connector-java-5.1.49.jar!/" />
+      <root url="jar://$USER_HOME$/LibreriesRepository_Golbal/poi-4.1.2.jar!/" />
+      <root url="jar://$USER_HOME$/LibreriesRepository_Golbal/poi-examples-4.1.2.jar!/" />
+      <root url="jar://$USER_HOME$/LibreriesRepository_Golbal/poi-excelant-4.1.2.jar!/" />
+      <root url="jar://$USER_HOME$/LibreriesRepository_Golbal/poi-ooxml-4.1.2.jar!/" />
+      <root url="jar://$USER_HOME$/LibreriesRepository_Golbal/poi-ooxml-schemas-4.1.2.jar!/" />
+      <root url="jar://$USER_HOME$/LibreriesRepository_Golbal/poi-scratchpad-4.1.2.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/GUI-Projecto001/Libreria para trabajar MSdoc/poi-4.1.2/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/GUI-Projecto001/conector java-MySql/mysql-connector-java-5.1.49/mysql-connector-java-5.1.49-bin.jar!/" />
+      <root url="jar://$USER_HOME$/LibreriesRepository_Golbal/commons-collections4-4.4.jar!/" />
+      <root url="jar://$USER_HOME$/LibreriesRepository_Golbal/commons-compress-1.19.jar!/" />
+      <root url="jar://$USER_HOME$/LibreriesRepository_Golbal/commons-math3-3.6.1.jar!/" />
+      <root url="jar://$USER_HOME$/LibreriesRepository_Golbal/xmlbeans-3.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
